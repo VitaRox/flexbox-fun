@@ -1,0 +1,5 @@
+Homework:
+
+- Create a page with 4 circles, 2 on top and 2 bottom.  You can choose the color you want
+and also specify a border for each circle. Do this via flex-box.
+- Must be relative to size of page
